@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.c-help.org	TRUE	/	FALSE	1999999999	XSRF-TOKEN	1686679081|5V3zRtJnWwOI
+www.c-help.org	TRUE	/	FALSE	1999999999	SameSite	None
+www.c-help.org	TRUE	/	FALSE	1999999999	ssr-caching	cache#desc=miss#varnish=miss_miss#dc#desc=fastly_g
+
